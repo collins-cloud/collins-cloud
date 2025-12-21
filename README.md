@@ -1,5 +1,3 @@
-## 👋 hi, i am Collins
+# 👋 hi, i am Collins
 
-I'm a web developer based in Nigeria.
-I love coding, watching anime, reading manga, and drawing.
-Always learning, always building.
+I'm a Web Developer and Graphic Designer passionate about building clean, responsive, and user‑friendly websites. I enjoy turning ideas into functional and visually appealing digital experiences.
