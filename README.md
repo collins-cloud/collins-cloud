@@ -1,6 +1,12 @@
-# 👋 hi, i am Collins
+# 👋 Hi, I'm Collins Obiorah
 
-Full-stack web & mobile app developer
-Building scalable, user-focused applications
-JavaScript • React • Node.js • Mobile apps •
-Always learning, always building
+I'm a **Full-Stack Web & Mobile App Developer** from Nigeria, passionate about turning ideas into real products. I build **modern, scalable applications** using JavaScript, React, Node.js, and mobile technologies.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React, React Native  
+**Backend:** Node.js, Django, Express, MongoDB, SQL  
+**Other Tools:** Git, GitHub, Firebase, REST APIs
+
