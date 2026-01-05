@@ -7,6 +7,12 @@ I'm a **Full-Stack Web & Mobile App Developer** from Nigeria, passionate about t
 ## 🛠️ Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript, React, React Native  
-**Backend:** Node.js, Django, Express, MongoDB, SQL  
+**Backend:** Node.js, Python, Django, Express, MongoDB, SQL  
 **Other Tools:** Git, GitHub, Firebase, REST APIs
+
+# My Hobbies 🌜
+• Watching anime
+• Reading manga
+• Coding
+• graphic designing
 
