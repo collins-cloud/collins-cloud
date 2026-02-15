@@ -6,9 +6,10 @@ I'm a **Full-Stack Web & Mobile App Developer** from Nigeria, passionate about t
 
 **Frontend:** 
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
-- Python 
+- Python
+- Typescript 
 - Nextjs
 - React
 - React Native.
