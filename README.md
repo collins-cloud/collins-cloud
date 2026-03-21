@@ -1,8 +1,8 @@
 ![Alt](20260321_172712.jpg)
 
-# 👋 Hi, I'm Collins 
-
-I'm a **Full-Stack Web & Mobile App Developer** from Nigeria, passionate about turning ideas into real products. I love building **modern, scalable applications** that solves problems.
+- Building full stack web and mobile apps that helps people 
+- Always love learning and improving
+- Open to collaborations
 
 ## 🛠️ Tech Stack
 
