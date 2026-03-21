@@ -2,9 +2,16 @@
 
 # About me
 - 💻 Building full stack web and mobile apps that helps people
-- ✨ Interest in Web and Mobile apps
 - 📒 Always love learning and improving
+- I like perfection
 - 😃 Open to collaborations
+
+# Top repository
+
+
+
+# Tech stack
+
 
 
   
