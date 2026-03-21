@@ -6,11 +6,11 @@
 - I like perfection
 - 😃 Open to collaborations
 
-# Top repository
+# Top repositories 
 
 
 
-# Tech stack
+# Tech stacks 
 
 
 
