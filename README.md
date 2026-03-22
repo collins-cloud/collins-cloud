@@ -3,7 +3,7 @@
 # About me
 - 💻 Building full stack web and mobile apps that helps people
 - 📒 Always love learning and improving
-- I always aim for perfection
+- ✨ I always aim for perfection
 - 😃 Open to collaborations
 
 # Top repositories 
