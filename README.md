@@ -3,7 +3,7 @@
 # About me
 
 Hi, I'm Collins
-** Full Stack Developer & Graphic Designer **
+**Full Stack Developer & Graphic Designer**
 
 I create complete web solutions, combining functional backend systems with intuitive and visually engaging user interfaces.
 
