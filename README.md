@@ -1,11 +1,13 @@
 ![banner](20260321_172712.jpg)
 
 # About me
-- 🌐 Based in **Nigeria**
-- 💻 Building **full stack web and mobile apps** that helps people
-- 📒 Always love **learning and improving**
-- ✨ I always aim for **perfection**
-- 😃 Open to **collaborations**
+
+Hi, I'm Collins
+** Full Stack Developer & Graphic Designer **
+
+I create complete web solutions, combining functional backend systems with intuitive and visually engaging user interfaces.
+
+Passionate about delivering both performance and design quality.
 
 # Top repositories 
 
