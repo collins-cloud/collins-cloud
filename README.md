@@ -2,12 +2,11 @@
 
 # About me
 
-Hi, I'm Collins
-**Full Stack Web and Android Developer & Graphic Designer**
+Hi, I am Collins Obiorah
 
-I create complete web solutions, combining functional backend systems with intuitive and visually engaging user interfaces.
+**Full Stack Web & Android Developer | Graphic Designer**
 
-Passionate about delivering both performance and design quality.
+I build complete digital solutions, combining robust backend systems with intuitive, visually engaging interfaces. Passionate about crafting applications that are not only functional but also deliver an exceptional user experience.
 
 # Top repositories 
 
