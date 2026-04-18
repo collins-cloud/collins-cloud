@@ -4,7 +4,7 @@
 
 Hi, I am Collins Obiorah
 
-**Full Stack  Developer | Graphic Designer**
+**Full Stack  Developer +  Designer**
 
 I build complete digital solutions, combining robust backend systems with intuitive, visually engaging interfaces. Passionate about crafting applications that are not only functional but also deliver an exceptional user experience.
 
